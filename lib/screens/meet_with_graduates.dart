@@ -150,7 +150,7 @@ List<GraduateModel> allPersonelList;
                                                       .fontSize(2),
                                                   color: Colors.white)),
                                           Text(
-                                              'Çalıştığı Kurum:' +
+                                              'Çalıştığı Şirket:' +
                                                   allPersonelList[index].placeOfWork,
                                               style: TextStyle(
                                                   fontSize: ResponsiveFlutter.of(
