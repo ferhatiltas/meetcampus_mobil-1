@@ -11,7 +11,7 @@ Coming Soon...
 $ git clone https://github.com/ferhatiltas/meetcampus_mobil-1
 
 # Access
-$ cd Notes-App
+$ cd meetcampus_mobil-1
 
 # Pull dependencies
 $ flutter pub get
